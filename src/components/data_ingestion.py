@@ -1,0 +1,1 @@
+# This file used for collecting the data from the various source like database, online rep, etc and sent the data for transformation and training
