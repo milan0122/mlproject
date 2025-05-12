@@ -1,5 +1,7 @@
 pandas 
 numpy 
-seaborn 
+seaborn
+matplotlib
+scikit-learn
 -e .
  # just above line make sure that to build package while installing this file's libraries
