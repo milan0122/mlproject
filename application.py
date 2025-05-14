@@ -27,10 +27,9 @@ def predict_datapoint():
             reading_score=request.form.get('reading_score'),
             writing_score=request.form.get('writing_score') )
         pred_df = data.get_data_as_data_frame()
-        print(pred_df)
         predict_data = PredictPipeline()
         results= predict_data.predict(pred_df)
         return render_template('home.html',result=results[0])
     
 if __name__=='__main__':
-    app.run(debug=True)
+    app.run(host="0.0.0.0")
