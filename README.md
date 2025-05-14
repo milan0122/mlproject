@@ -31,8 +31,11 @@ List the tools and technologies used:
 - Git for CI/CD
 - Elastic Beanstalk for deployment
 ## EDA and Insights 
-![Alt Text - Student Performance by gender and lunch](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/gender_lunch.png)
-![Alt Text - Student Performance by gender ](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/gender_bivariate.png)
+![Alt text - Student Performance by gender and lunch](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/gender_lunch.png)
+![Alt text - Distribution of each categorical features with their category](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/distribution_categorical.png)
+![Alt text - Student Performance impact by gender ](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/gender_bivariate.png)
+![Alt text - Student Performance impact by Race/ethnicity ](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/race_ethnicity.png)
+![Alt text - Student Performance by test_preparation_course ](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/test_prep.png)
 
 # Model Performance
 Quick summary of model performance 
