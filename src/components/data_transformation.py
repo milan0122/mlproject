@@ -26,7 +26,7 @@ class DataTransformation:
         '''
         try:
             numerical_cols = ['writing_score','reading_score']
-            categorical_cols = ['gender','race_ethnicity','parental_level_of_eucation','lunch','test_preparation_course']
+            categorical_cols = ['gender','race_ethnicity','parental_level_of_education','lunch','test_preparation_course']
 
 
             num_pipeline=Pipeline(
