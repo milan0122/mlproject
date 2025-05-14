@@ -8,20 +8,18 @@
 - [🎯 Model Performance](#-model-performance)
 - [🚀 Deployment](#-deployment)
 - [📦 Installation](#-installation)
-- [🔮 Future Work](#-future-work)
-- [🙋 Author](#-author)
-- [📄 License](#-license)
 ## 📊 Project Overview
 - Research: Understanding about the data, exploratory data analysis about the data, feature engineering, preprocessing and model training
 - Development: Created the component and pipeline for data ingestion, transformation and model training with creating simple interface using flask. 
 - Deployment : Application is deployed on AWS 
 ## 🧪 Features
-- Data ingestion and validation
-- EDA with visual insights
-- Data preprocessing and feature engineering
-- Model training with evaluation
-- Model serialization using drill
-- Logging and exception handling
+- EDA with visual insights : research
+- Data preprocessing and feature engineering: research
+- model training and evaluation : research
+- Data ingestion and validation : development
+- Model training with evaluation : development
+- Model serialization using drill : artifacts
+- Logging and exception handling : logs 
 
 ## Tech Stack
 List the tools and technologies used:
@@ -36,8 +34,12 @@ List the tools and technologies used:
 ![Alt text - Student Performance impact by gender ](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/gender_bivariate.png)
 ![Alt text - Student Performance impact by Race/ethnicity ](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/race_ethnicity.png)
 ![Alt text - Student Performance by test_preparation_course ](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/test_prep.png)
-
-# Model Performance
+#### Final Insights
+- Student's Performance is related with lunch, race, parental level education
+- Females lead in pass percentage and also are top-scorers
+- Student's Performance is not much related with test preparation course
+- Finishing preparation course is benefitial.
+## Model Performance
 Quick summary of model performance 
 |Model|Mean Squared Error| R2_score|
 |---|---|---|
@@ -46,7 +48,7 @@ Quick summary of model performance
 |Gradient Boosting Regressor|21.40|0.8722|
 |catboostRegressor|36.1037|0.8516|
 
-# Project Clone and setup
+## Project Clone and setup
 - Clone the repository: 
 ``` 
 git clone https://github.com/milan0122/mlproject.git 
