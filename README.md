@@ -1,10 +1,5 @@
 # mlproject : Student Perfromance Indicator
 "An end-to-end machine learning project to predict and analyze student academic outcomes based on math"
-
-
-
-## Table of Contents
-- [Detailed](#detailed-description-about-the-project)
 ### Breif Description about the project
 - Research: Understanding about the data, exploratory data analysis about the data, feature engineering, preprocessing and model training
 - Development: Created the component and pipeline for data ingestion, transformation and model training with creating simple interface using flask. 
@@ -29,14 +24,14 @@ List the tools and technologies used:
 - Flask for simple interface
 - Git for CI/CD
 - Elastic Beanstalk for deployment
-# 1. Installation 
+# Project Clone and setup
 - Clone the repository: 
-```
-bash git clone https://github.com/milan0122/mlproject.git 
+``` 
+git clone https://github.com/milan0122/mlproject.git 
 ```
 - Install dependencies 
     ```
-    bash pip install -r requirements.txt
+     pip install -r requirements.txt
     ```
 - Check the simple app interface 
     ```
