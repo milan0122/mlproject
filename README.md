@@ -34,6 +34,7 @@ List the tools and technologies used:
 ![Alt text - Student Performance impact by gender ](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/gender_bivariate.png)
 ![Alt text - Student Performance impact by Race/ethnicity ](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/race_ethnicity.png)
 ![Alt text - Student Performance by test_preparation_course ](https://github.com/milan0122/mlproject/blob/a7395cf1b7d6cfc4534ac426171d5eb2c470a1d5/screnshots/test_prep.png)
+![Alt text - Student Performance Calculator UI](https://github.com/milan0122/mlproject/blob/45c49a74f9502260bf16504fc45e5092f4f80a61/screnshots/ui.png)
 #### Final Insights
 - Student's Performance is related with lunch, race, parental level education
 - Females lead in pass percentage and also are top-scorers
